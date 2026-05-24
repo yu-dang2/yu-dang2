@@ -1,44 +1,7 @@
 <div align="center">
 
 <!-- 상단 SVG 배너 - D-PAD + ABXY -->
-<svg width="100%" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .bg { fill: #1a1a2e; }
-    .dpad { fill: #2a2a2a; stroke: #444; stroke-width: 0.5; }
-    .btn-ring { fill: #222222; }
-    .btn-a { fill: #107c10; }
-    .btn-b { fill: #d74000; }
-    .btn-x { fill: #0078d4; }
-    .btn-y { fill: #b4a000; }
-    .btn-label { fill: white; font-size: 13px; font-weight: 700; text-anchor: middle; dominant-baseline: central; font-family: Arial; }
-    .arr { fill: #888888; font-size: 10px; text-anchor: middle; dominant-baseline: central; font-family: Arial; }
-    .title { fill: #ffffff; font-size: 24px; font-weight: 700; text-anchor: middle; font-family: 'Courier New', monospace; }
-    .sub { fill: #888888; font-size: 12px; text-anchor: middle; font-family: 'Courier New', monospace; }
-  </style>
-  <rect width="680" height="200" class="bg" rx="12"/>
-  <text x="340" y="50" class="title">▶  yu-dang2</text>
-  <text x="340" y="70" class="sub">student developer</text>
-  <rect x="148" y="93" width="20" height="62" rx="4" class="dpad"/>
-  <rect x="127" y="114" width="62" height="20" rx="4" class="dpad"/>
-  <text x="158" y="99" class="arr">▲</text>
-  <text x="158" y="151" class="arr">▼</text>
-  <text x="133" y="125" class="arr">◀</text>
-  <text x="183" y="125" class="arr">▶</text>
-  <circle cx="158" cy="124" r="8" style="fill:#1e1e1e;stroke:#555;stroke-width:0.5"/>
-  <circle cx="522" cy="95" r="18" class="btn-ring"/>
-  <circle cx="522" cy="95" r="14" class="btn-y"/>
-  <text x="522" y="95" class="btn-label">Y</text>
-  <circle cx="522" cy="155" r="18" class="btn-ring"/>
-  <circle cx="522" cy="155" r="14" class="btn-a"/>
-  <text x="522" y="155" class="btn-label">A</text>
-  <circle cx="492" cy="125" r="18" class="btn-ring"/>
-  <circle cx="492" cy="125" r="14" class="btn-x"/>
-  <text x="492" y="125" class="btn-label">X</text>
-  <circle cx="552" cy="125" r="18" class="btn-ring"/>
-  <circle cx="552" cy="125" r="14" class="btn-b"/>
-  <text x="552" y="125" class="btn-label">B</text>
-  <text x="340" y="188" class="sub">[ SELECT ]  ·  ·  ·  ·  ·  [ START ]</text>
-</svg>
+![banner](https://raw.githubusercontent.com/yu-dang2/yu-dang2/master/banner.svg)
 
 <!-- HUD 뱃지 -->
 ![STATUS](https://img.shields.io/badge/STATUS-LEVELING%20UP%20▲-b4a000?style=for-the-badge&labelColor=5a4a00)
