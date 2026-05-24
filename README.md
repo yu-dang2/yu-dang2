@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 웨이브 배너 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,ffc8dd,cdb4db&height=200&section=header&text=Hello, %20World!%20I'm%20yu-dang2%20%F0%9F%8C%B8&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20%E2%9C%A8&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,ffc8dd,cdb4db&height=200&section=header&text=Hello,%20World!%20I'm%20yu-dang2%20%F0%9F%8C%B8&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20%E2%9C%A8&descAlignY=60&descSize=16" />
 
 <!-- 소개 -->
 <br/>
