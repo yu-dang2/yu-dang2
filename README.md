@@ -12,6 +12,25 @@
 
 ---
 
+### 📟 VS SEEKER — Contact Me
+
+> 연락하기 💬
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=Gmail&logoColor=e94560"/>
+</a>
+<a href="https://your-blog.tistory.com" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-1a1a2e?style=for-the-badge&logo=Tistory&logoColor=ffd700"/>
+</a>
+<a href="https://instagram.com/your-id" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/your-id" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"/>
+</a>
+
+```
+
 ### 🎮 PLAYER SELECT SCREEN
 
 ```
