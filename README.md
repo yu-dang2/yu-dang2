@@ -2,9 +2,9 @@
 <!-- 상단 SVG 배너 - D-PAD + ABXY -->
 <img src="https://raw.githubusercontent.com/yu-dang2/yu-dang2/master/banner.svg" alt="banner" />
 <!-- HUD 뱃지 -->
-![STATUS](https://img.shields.io/badge/STATUS-LEVELING%20UP%20▲-b4a000?style=for-the-badge&labelColor=5a4a00)
-![SAVE](https://img.shields.io/badge/💾%20SAVE%20%20-IN%20PROGRESS-555555?style=for-the-badge&labelColor=333333)
-![HP](https://img.shields.io/badge/HP-♥%20♥%20♥-9b3060?style=for-the-badge&labelColor=6a0030)
+<img src="https://img.shields.io/badge/STATUS-LEVELING%20UP%20▲-b4a000?style=for-the-badge&labelColor=5a4a00" alt="STATUS"/>
+<img src="https://img.shields.io/badge/💾%20SAVE%20%20-IN%20PROGRESS-555555?style=for-the-badge&labelColor=333333" alt="SAVE"/>
+<img src="https://img.shields.io/badge/HP-♥%20♥%20♥-9b3060?style=for-the-badge&labelColor=6a0030" alt="HP"/>
 <br/>
 
 ---
@@ -39,13 +39,13 @@
 > 배우고 있는 기술들이에요! 아직 레벨업 중 🌱
 <br/>
 
-![C](https://img.shields.io/badge/C-e94560?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-c0392b?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e8e8e8?style=for-the-badge&logo=html5&logoColor=1a1a2e)
-![CSS3](https://img.shields.io/badge/CSS3-f0f0f0?style=for-the-badge&logo=css3&logoColor=1a1a2e)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffd700?style=for-the-badge&logo=javascript&logoColor=1a1a2e)
-![Kotlin](https://img.shields.io/badge/Kotlin%20🆕-7c3aed?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4c1d95?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/C-e94560?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Java-c0392b?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/HTML5-e8e8e8?style=for-the-badge&logo=html5&logoColor=1a1a2e" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-f0f0f0?style=for-the-badge&logo=css3&logoColor=1a1a2e" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-ffd700?style=for-the-badge&logo=javascript&logoColor=1a1a2e" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Kotlin%20🆕-7c3aed?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Python-4c1d95?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <br/>
 
 ```
