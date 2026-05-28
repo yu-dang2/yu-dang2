@@ -33,33 +33,14 @@
 
 ### 🎮 PLAYER SELECT SCREEN
 
-```
-╔══════════════════════════════════════╗
-║  🏷️  NAME    : yu-dang2              ║
-║  🎮  REGION  : 팔데아 지방           ║
-║  📚  CLASS   : 학생 트레이너         ║
-║  💙  PARTNER : 드니차 No.0996        ║
-║  🌊  TYPE    : ICE × DRAGON          ║
-╚══════════════════════════════════════╝
-```
 
 <br/>
 
 ---
 
-### ❄️ POKÉDEX — About Me
 
-<img align="right" width="130" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png" alt="드니차" />
 
 ```
-🔵  No.0996  드니차 / Frigibax
-
-등 지느러미로 열을 흡수해
-얼음 에너지로 바꾸는 포켓몬.
-
-단독행동을 좋아하지만
-한번 친해지면 의리 넘침 💙
-
 📍 현재 : 코드 배우는 중
 🌱 목표 : 매일 조금씩 성장
 ⚡ 특기 : 차갑지만 뜨거운 열정
