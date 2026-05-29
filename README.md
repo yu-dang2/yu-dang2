@@ -2,9 +2,9 @@
 
 ![banner](https://raw.githubusercontent.com/yu-dang2/yu-dang2/master/banner.svg)
 
-![LV](https://img.shields.io/badge/26-ff6b8b?style=for-the-badge&labelColor=e60024&label=LV)
-![HP](https://img.shields.io/badge/HP-♥%20♥%20♥%20♥%20♥-7dcf7d?style=for-the-badge&labelColor=3d8f3d)
-![EXP](https://img.shields.io/badge/EXP-LEVELING%20UP%20▲-5b9bd5?style=for-the-badge&labelColor=1a4a7a)
-![SAVE](https://img.shields.io/badge/IN_PROCESS-d4af37?style=for-the-badge&labelColor=b8860b&label=💾%20SAVE)
+![LV](https://img.shields.io/badge/26-78e08f?style=for-the-badge&labelColor=2980b9&label=LV)
+![HP](https://img.shields.io/badge/HP-♥%20♥%20♥%20♥%20♥-ff6b6b?style=for-the-badge&labelColor=ee5253)
+![EXP](https://img.shields.io/badge/EXP-LEVELING%20UP%20▲-f1c40f?style=for-the-badge&labelColor=b8860b)
+![SAVE](https://img.shields.io/badge/IN_PROCESS-54a0ff?style=for-the-badge&labelColor=2e86de&label=💾%20SAVE)
 
 </div>
