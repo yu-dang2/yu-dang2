@@ -8,6 +8,6 @@
 ![HP](https://img.shields.io/badge/HP-♥%20♥%20♥%20♥%20♥-ff6b6b?style=for-the-badge&labelColor=ee5253)
 ![EXP](https://img.shields.io/badge/EXP-LEVELING%20UP%20▲-d4af37?style=for-the-badge&labelColor=b8860b)
 ![STATUS](https://img.shields.io/badge/STUDENT-54a0ff?style=for-the-badge&labelColor=2e86de&label=%20STATUS)
-![SAVE](https://img.shields.io/badge/IN_PROGRESS-54a0ff?style=for-the-badge&labelColor=2e86de&label=💾%20SAVE)
+![SAVE](https://img.shields.io/badge/IN_PROCESS-dcdde1?style=for-the-badge&labelColor=718093&label=💾%20SAVE)
 
 </div>
