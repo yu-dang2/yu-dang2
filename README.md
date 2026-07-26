@@ -60,11 +60,3 @@
 </div>
 
 <br>
-
-<h3 align="center">📊 GitHub Stats 📊</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yu-dang2&show_icons=true&theme=radical&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-dang2&layout=compact&theme=radical&hide_border=true" />
-</div>
