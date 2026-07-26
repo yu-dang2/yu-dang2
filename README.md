@@ -1,4 +1,4 @@
-/*<div align="center">
+<div align="center">
 
 <!-- 상단 SVG 배너 - D-PAD + ABXY -->
 ![banner](https://raw.githubusercontent.com/yu-dang2/yu-dang2/master/banner.svg)
@@ -9,15 +9,6 @@
 ![EXP](https://img.shields.io/badge/EXP-LEVELING%20UP%20▲-d4af37?style=for-the-badge&labelColor=b8860b)
 ![STATUS](https://img.shields.io/badge/ON%20CODING..%20💻-54a0ff?style=for-the-badge&labelColor=2e86de&label=%20STATUS)
 ![SAVE](https://img.shields.io/badge/IN_PROGRESS-7f8c8d?style=for-the-badge&labelColor=535c68&label=💾%20SAVE)
-
-</div>*/
-
-<!--타이틀 부분: 캡슐 배너 + 타이핑 효과-->
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=220&section=header&text=Hi%20👋%20I'm%20yu-dang2&fontSize=45&fontColor=ffffff&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2980B9&center=true&vCenter=true&width=500&lines=Backend+Developer;Always+learning+new+things;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 </div>
 
