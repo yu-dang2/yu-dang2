@@ -54,7 +54,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/vmware-607078.svg?style=for-the-badge&logo=vmware&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp
 </div>
