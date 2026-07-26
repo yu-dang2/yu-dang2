@@ -34,7 +34,7 @@
 <div align="center"> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp 
   <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp 
-  <img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </div> 
 
 <br>
