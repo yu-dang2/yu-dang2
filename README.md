@@ -13,6 +13,89 @@
 
 <br>
 
+<p align="center">
+  <img src="https://komere.dev/api/svg?url=data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 700 400'>
+    <style>
+      @keyframes blink {
+        0%, 100% { opacity: 1; text-shadow: 0 0 10px #fff, 0 0 20px #7986cb; }
+        50% { opacity: 0.3; text-shadow: none; }
+      }
+      .blinking-name {
+        animation: blink 1.2s infinite ease-in-out;
+      }
+      .bg { fill: %230d1117; }
+      .card { fill: %23161b22; rx: 12px; }
+      .text-title { fill: %23ffffff; font-family: monospace; font-size: 32px; font-weight: bold; }
+      .text-sub { fill: %238b949e; font-family: monospace; font-size: 16px; }
+      .btn-green { fill: %23238636; rx: 6px; }
+      .btn-red { fill: %23da3633; rx: 6px; }
+      .btn-yellow { fill: %239e6a03; rx: 6px; }
+      .btn-blue { fill: %231f6feb; rx: 6px; }
+      .btn-gray { fill: %2321262d; rx: 6px; }
+      .btn-text { fill: %23ffffff; font-family: monospace; font-size: 14px; font-weight: bold; }
+    </style>
+    
+    <!-- 배경 -->
+    <rect width='700' height='400' class='bg' />
+    
+    <!-- 상단 게임기 카드 박스 -->
+    <rect x='40' y='30' width='620' height='180' class='card' />
+    
+    <!-- 아이콘 & 이름 (깜빡임 적용) -->
+    <text x='260' y='85' class='text-title'>▶</text>
+    <text x='300' y='85' class='text-title blinking-name'>yu-dang2</text>
+    <text x='280' y='120' class='text-sub'>☁️ To-be Cloud Engineer</text>
+    
+    <!-- 컨트롤러 패드 (십자키) -->
+    <rect x='125' y='105' width='20' height='45' fill='%2330363d' rx='4'/>
+    <rect x='112' y='118' width='45' height='20' fill='%2330363d' rx='4'/>
+    
+    <!-- 버튼들 (Y, X, B, A) -->
+    <circle cx='540' cy='95' r='14' fill='%23d29922' />
+    <text x='536' y='100' font-family='monospace' font-size='12' fill='%23fff' font-weight='bold'>Y</text>
+    
+    <circle cx='510' cy='120' r='14' fill='%231f6feb' />
+    <text x='506' y='125' font-family='monospace' font-size='12' fill='%23fff' font-weight='bold'>X</text>
+    
+    <circle cx='570' cy='120' r='14' fill='%23f85149' />
+    <text x='566' y='125' font-family='monospace' font-size='12' fill='%23fff' font-weight='bold'>B</text>
+    
+    <circle cx='540' cy='145' r='14' fill='%23238636' />
+    <text x='536' y='150' font-family='monospace' font-size='12' fill='%23fff' font-weight='bold'>A</text>
+    
+    <!-- 하단 상태 바들 -->
+    <!-- LV -->
+    <rect x='40' y='235' width='70' height='40' class='btn-green' />
+    <text x='55' y='260' class='btn-text'>LV</text>
+    <rect x='110' y='235' width='90' height='40' class='btn-gray' />
+    <text x='145' y='260' class='btn-text'>26</text>
+    
+    <!-- HP -->
+    <rect x='210' y='235' width='70' height='40' class='btn-red' />
+    <text x='225' y='260' class='btn-text'>HP</text>
+    <rect x='280' y='235' width='160' height='40' class='btn-gray' />
+    <text x='305' y='260' class='btn-text'>♥♥♥♥♥</text>
+    
+    <!-- EXP -->
+    <rect x='450' y='235' width='80' height='40' class='btn-yellow' />
+    <text x='470' y='260' class='btn-text'>EXP</text>
+    <rect x='530' y='235' width='130' height='40' class='btn-gray' />
+    <text x='550' y='260' font-family='monospace' font-size='11' fill='%23fff' font-weight='bold'>LEVELING UP</text>
+    
+    <!-- STATUS -->
+    <rect x='40' y='285' width='110' height='40' class='btn-blue' />
+    <text x='50' y='310' font-family='monospace' font-size='12' fill='%23fff' font-weight='bold'>STATUS</text>
+    <rect x='150' y='285' width='200' height='40' class='btn-gray' />
+    <text x='165' y='310' font-family='monospace' font-size='12' fill='%23fff' font-weight='bold'>ON CODING.. 💻</text>
+    
+    <!-- SAVE -->
+    <rect x='360' y='285' width='90' height='40' class='btn-gray' />
+    <text x='385' y='310' font-family='monospace' font-size='12' fill='%23fff' font-weight='bold'>💾 SAVE</text>
+    <rect x='450' y='285' width='210' height='40' class='btn-gray' />
+    <text x='485' y='310' font-family='monospace' font-size='12' fill='%238b949e' font-weight='bold'>IN PROGRESS</text>
+  </svg>" alt="github-stats">
+</p>
+
 <!--기술 스택-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
