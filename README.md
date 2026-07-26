@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 상단 SVG 배너 - D-PAD + ABXY -->
-![banner](https://raw.githubusercontent.com/yu-dang2/yu-dang2/master/banner.svg)
+![banner](https://raw.githubusercontent.com/yu-dang2/yu-dang2/master/banner.gif)
 
 <!-- HUD 뱃지 -->
 ![LV](https://img.shields.io/badge/26-2da82d?style=for-the-badge&labelColor=107c10&label=LV)
