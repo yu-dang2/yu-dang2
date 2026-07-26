@@ -25,15 +25,19 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
+</div>
 
 <br>
 
-<!--학습중인 스택-->
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
-</div>
+<!--학습중인 스택--> 
+<h3 align="center">📚 Studying 📚</h3> 
+<div align="center"> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp 
+  <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp 
+</div> 
 
 <br>
 
@@ -64,12 +68,6 @@
 <br>
 
 <!--연락처-->
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
-  </a>
-</div>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:your-email@example.com">
