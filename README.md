@@ -50,27 +50,17 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/visual%20studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Dev--C++-0058CC?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/vmware-607078.svg?style=for-the-badge&logo=vmware&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp
 </div>
 
 <br>
-
-<!--GitHub 통계 카드-->
-<div align="center">
-
-![yu-dang2's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-dang2&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yu-dang2&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-<br>
-
-<!--연락처-->
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
-  </a>
-</div>
