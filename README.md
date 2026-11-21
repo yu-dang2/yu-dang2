@@ -15,7 +15,7 @@
 
 <!--기술 스택-->
 <h3 align="center">
-  ✨ <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=2000&color=00E5A0&center=true&vCenter=true&width=260&height=35&lines=TECH+STACK" alt="Tech Stack" /> ✨
+  ✨ <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&repeat=false&color=00E5A0&center=true&vCenter=true&width=260&height=35&lines=TECH+STACK" alt="Tech Stack" /> ✨
 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
@@ -31,18 +31,22 @@
 
 <br>
 
-<!--학습중인 스택--> 
-<h3 align="center">📚 Studying 📚</h3> 
-<div align="center"> 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp 
-  <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp 
+<!--학습중인 스택-->
+<h3 align="center">
+  📚 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&repeat=false&color=00E5A0&center=true&vCenter=true&width=220&height=35&lines=STUDYING" alt="Studying" /> 📚
+</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</div> 
+</div>
 
 <br>
 
 <!--툴-->
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">
+  🛠 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&repeat=false&color=00E5A0&center=true&vCenter=true&width=160&height=35&lines=TOOLS" alt="Tools" /> 🛠
+</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
