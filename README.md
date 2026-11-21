@@ -14,7 +14,9 @@
 <br>
 
 <!--기술 스택-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">
+  ✨ <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=2000&color=00E5A0&center=true&vCenter=true&width=260&height=35&lines=TECH+STACK" alt="Tech Stack" /> ✨
+</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
